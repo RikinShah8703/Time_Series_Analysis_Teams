@@ -1,7 +1,7 @@
 Submission directory for Graded Assignment 3. Guidelines for submission:
-1. Fork this repository, clone your fork of this repository.
-2. Add a subfolder inside of Graded Assignment 3 folder having the name "Assignment_3_GroupNo" (replace your group number) and add the relevant files in the folder.
-3. Commit the changes to your forked repo, and create pull request with the same name "Assignment_3_GroupNo"
+1. `Fork` this repository, `clone` your fork of this repository.
+2. Add a subfolder inside of `Graded Assignment 3` folder having the name `Assignment_3_GroupNo` (replace your group number) and add the relevant files in the folder.
+3. Commit the changes to your forked repo, and create pull request with the same name `Assignment_3_GroupNo`
 
 Final Groups can be found here: 
 | Group No. | 	Member 1 |	Member 2 |	Member 3 |	Member 4 |	Member 5| 
