@@ -1,6 +1,7 @@
 # Time_Series_Analysis_Teams
 
-NOTE: SUBMISSION GUIDELINES FOR ASSIGNMENT 3 ARE IN THE `GRADED ASSIGNMENT 3` FOLDER
+| :warning: SUBMISSION GUIDELINES FOR ASSIGNMENT 3 ARE IN THE `GRADED ASSIGNMENT 3` FOLDER |
+| --- |
 
 Final Groups are as shown below - 
 | Group No. | 	Member 1 |	Member 2 |	Member 3 |	Member 4 |	Member 5| 
